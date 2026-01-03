@@ -1,0 +1,20 @@
+[
+  {
+    "Spell": "fireball",
+    "FireDamage": 50,
+    "ColdDamage": 0
+  },
+  {
+    "Spell": "iceball",
+    "fire": {
+      "damage": 10
+    },
+    "cold": {
+      "damage": 50
+    },
+    "poison": {
+      "damage": 10,
+      "duration": 5
+    }
+  }
+]

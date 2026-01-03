@@ -1,0 +1,14 @@
+[
+  {
+    "name": "warrior",
+    "colorData": "red"
+  },
+  {
+    "name": "wizard",
+    "colorData": "blue"
+  },
+  {
+    "name": "priest",
+    "colorData": "yellow"
+  }
+]

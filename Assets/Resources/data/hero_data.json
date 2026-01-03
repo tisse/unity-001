@@ -1,0 +1,41 @@
+[
+  {
+    "HeroClass": "warrior",
+    "Data": {
+      "Health": 50,
+      "Strength": 50,
+      "Armor": 50,
+      "Agility": 50,
+      "Intelligence": 50,
+      "Stamina": 50,
+      "ActionPoints": 5,
+      "Wisdom": 50
+    }
+  },
+  {
+    "HeroClass": "priest",
+    "Data": {
+      "Health": 30,
+      "Strength": 10,
+      "Armor": 50,
+      "Agility": 50,
+      "Intelligence": 50,
+      "Stamina": 50,
+      "ActionPoints": 5,
+      "Wisdom": 50
+    }
+  },
+  {
+    "HeroClass": "wizard",
+    "Data": {
+      "Health": 20,
+      "Strength": 10,
+      "Armor": 50,
+      "Agility": 50,
+      "Intelligence": 50,
+      "Stamina": 50,
+      "ActionPoints": 5,
+      "Wisdom": 50
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fire",
+    "kind": [
+      "fire"
+    ]
+  },
+  {
+    "name": "steam",
+    "kind": [
+      "fire",
+      "water",
+      "air"
+    ]
+  }
+]
