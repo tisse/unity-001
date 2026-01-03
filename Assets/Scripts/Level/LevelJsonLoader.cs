@@ -24,16 +24,14 @@ namespace Level
                         for (var x = 0; x < cells.Length; x++)
                         {
                             var cell = cells[x].Trim();
-
-                            if (!string.IsNullOrEmpty(cell) && cell != "0")
+                            if (!string.IsNullOrEmpty(cell))
                             {
-                                LevelBlockUtils.CreateBlock(x, itemData.Row, item.Floor);
+                                LevelBlockUtils.CreateBlock(x, itemData.Row, item.Floor, cell);
                             }
                         }
                     }
                 );
             });
         }
-
     }
 }

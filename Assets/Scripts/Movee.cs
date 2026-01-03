@@ -42,7 +42,7 @@ public class Movee : MonoBehaviour
 
     private void Start()
     {
-        LevelJsonLoader.LoadJsonLevel();
+        LevelJsonLoader.LoadJsonLevel(1);
     }
 
 
